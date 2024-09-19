@@ -17,7 +17,6 @@
   - 5000 etiketli fotoğraf ile eğitilmiş bir roboflow modeli.
   - Kullanıcı dostu arayüz.
   - Kullanıcıların kaydolmasına ve veritabanı ile etkileşimde bulunmalarına olanak tanıma.
-  - Yemeklerin adlarını ve açıklamalarını gösterme.
 
 ## 3. Rüzgar Gücü Projesi
 

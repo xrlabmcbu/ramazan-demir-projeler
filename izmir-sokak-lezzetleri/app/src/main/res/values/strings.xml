@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APPV1</string>
+    <string name="title_activity_first_page">FirstPage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_second_page">secondPage</string>
+    <string name="title_activity_third_page">thirdPage</string>
+    <string name="title_activity_fourth_page">fourthPage</string>
+    <string name="title_activity_loc_page">loc_page</string>
+    <string name="title_activity_login_page">login_Page</string>
+    <string name="title_activity_sign_up">sign_up</string>
+    <string name="title_activity_user_page">userPage</string>
+</resources>

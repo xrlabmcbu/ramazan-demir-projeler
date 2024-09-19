@@ -20,7 +20,7 @@
   - Kullanıcı dostu arayüz.
   - Kullanıcıların kaydolmasına ve veritabanı ile etkileşimde bulunmalarına olanak tanıma.
 
-![b](https://github.com/user-attachments/assets/9f23d65d-41ca-43ae-9636-2b0344693d3c)
+![Screenshot_2024-09-19-11-08-21](https://github.com/user-attachments/assets/5e5c4e6d-68c9-4d89-8be1-3f7e244a4c79)
 
 ## 3. Rüzgar Gücü Projesi
 
@@ -31,6 +31,9 @@
   - Farklı makine öğrenimi modelleri (LSTM, Gradient Boosting, CatBoost, XGBoost) ile tahminler.
   - Kullanıcı dostu bir arayüz ile sonuçların gösterimi.
 
+    ![rüzgar](https://github.com/user-attachments/assets/ac88e3c3-2661-4af5-9ec5-d16edcc276fa)
+
+
 ## 4. Web Scraping Projesi
 
 - **Açıklama**: Google Görseller'den resim indirmek için Selenium tabanlı bir web scraping projesi geliştirdim.
@@ -38,4 +41,5 @@
 - **Özellikler**:
   - Belirli anahtar kelimelerle görsel arama.
   - İndirilmiş görselleri yerel dosya sistemine kaydetme.
+![google](https://github.com/user-attachments/assets/45b07feb-e54f-479f-b104-b5520ec4b0a8)
 

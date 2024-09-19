@@ -8,6 +8,7 @@
 - **Özellikler**:
   - Gerçek zamanlı duygu analizi.
   - Laptop kamerasıyla test edildi.
+![a](https://github.com/user-attachments/assets/cab83898-03f7-4860-b441-fcd5223c7941)
 
 ## 2. İzmir Yöresel Yemeklerini Tanıyan Uygulama
 

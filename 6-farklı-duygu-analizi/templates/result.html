@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analiz Sonucu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+
+        .result-card {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .result-card h2 {
+            margin-top: 0;
+        }
+
+        .result-card img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-card">
+        <h2>Analiz Sonucu</h2>
+        <img src="{{ image_url }}" alt="Analiz Sonucu">
+    </div>
+
+    <a href="/" style="text-decoration: none; color: #007bff; font-size: 18px; margin-top: 20px;">Geri Dön</a>
+</body>
+</html>

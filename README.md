@@ -8,7 +8,7 @@
   - Gerçek zamanlı duygu analizi.
   - Laptop kamerasıyla test edildi.
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/1a9616c2-1f50-4114-b3fe-dc0f5981b9bc" alt="Duygu Tanıma" width="300"/>
+    <img src="https://github.com/user-attachments/assets/1a9616c2-1f50-4114-b3fe-dc0f5981b9bc" alt="Duygu Tanıma" width="600"/>
 </div>
 
 ## 2. İzmir Yöresel Yemeklerini Tanıyan Uygulama
@@ -20,7 +20,7 @@
   - Kullanıcı dostu arayüz.
   - Kullanıcıların kaydolmasına ve veritabanı ile etkileşimde bulunmalarına olanak tanıma.
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5e5c4e6d-68c9-4d89-8be1-3f7e244a4c79" alt="İzmir Yöresel Yemekleri" width="300"/>
+    <img src="https://github.com/user-attachments/assets/5e5c4e6d-68c9-4d89-8be1-3f7e244a4c79" alt="İzmir Yöresel Yemekleri" width="200"/>
 </div>
 
 ## 3. Rüzgar Gücü Projesi
@@ -43,5 +43,5 @@
   - Belirli anahtar kelimelerle görsel arama.
   - İndirilmiş görselleri yerel dosya sistemine kaydetme.
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/45b07feb-e54f-479f-b104-b5520ec4b0a8" alt="Web Scraping" width="300"/>
+    <img src="https://github.com/user-attachments/assets/45b07feb-e54f-479f-b104-b5520ec4b0a8" alt="Web Scraping" width="400"/>
 </div>

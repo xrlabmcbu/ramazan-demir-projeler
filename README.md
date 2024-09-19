@@ -20,7 +20,7 @@
   - Kullanıcı dostu arayüz.
   - Kullanıcıların kaydolmasına ve veritabanı ile etkileşimde bulunmalarına olanak tanıma.
 
-![Screenshot_2024-09-19-11-08-21](https://github.com/user-attachments/assets/5e5c4e6d-68c9-4d89-8be1-3f7e244a4c79)
+<img src="https://github.com/user-attachments/assets/5e5c4e6d-68c9-4d89-8be1-3f7e244a4c79" alt="Açıklama" width="300"/>
 
 ## 3. Rüzgar Gücü Projesi
 

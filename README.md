@@ -1,1 +1,0 @@
-# ramazan-demir-projeler

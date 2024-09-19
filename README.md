@@ -8,7 +8,8 @@
 - **Özellikler**:
   - Gerçek zamanlı duygu analizi.
   - Laptop kamerasıyla test edildi.
-![a](https://github.com/user-attachments/assets/cab83898-03f7-4860-b441-fcd5223c7941)
+![b](https://github.com/user-attachments/assets/1a9616c2-1f50-4114-b3fe-dc0f5981b9bc)
+
 
 ## 2. İzmir Yöresel Yemeklerini Tanıyan Uygulama
 
@@ -18,6 +19,8 @@
   - 5000 etiketli fotoğraf ile eğitilmiş bir roboflow modeli.
   - Kullanıcı dostu arayüz.
   - Kullanıcıların kaydolmasına ve veritabanı ile etkileşimde bulunmalarına olanak tanıma.
+
+![b](https://github.com/user-attachments/assets/9f23d65d-41ca-43ae-9636-2b0344693d3c)
 
 ## 3. Rüzgar Gücü Projesi
 

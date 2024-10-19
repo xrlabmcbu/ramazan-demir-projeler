@@ -10,7 +10,7 @@
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/1a9616c2-1f50-4114-b3fe-dc0f5981b9bc" alt="Duygu Tanıma" width="600"/>
 </div>
-
+model = https://github.com/ramazandmrr/6--different--emotions-on-live-camera/releases
 ## 2. İzmir Yöresel Yemeklerini Tanıyan Uygulama
 
 - **Açıklama**: İzmir yöresel yemeklerini tanıyan bir mobil uygulama geliştirdim. Uygulama, kullanıcıların fotoğraflarını yüklemeleriyle yemekleri tanımaktadır.
